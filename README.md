@@ -4,10 +4,11 @@ I'm Loominagit. People know me as Loominatrx on [Roblox](https://www.roblox.com/
 
 Fun fact: I learn JavaScript basics for about a day or so!
 
-### If you'd like to contact me, contack me at:
+### If you'd like to contact me, contact me at:
 - Roblox: [Loominatrx](https://www.roblox.com/users/1565283543/profile)
 - Discord: Udin#4843
 - DevForum: [Loominatrx](https://devforum.roblox.com/u/Loominatrx)
+(I mostly don't read messages since I am busy IRL.)
 
 <!--
 **Loominagit/Loominagit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
