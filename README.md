@@ -4,10 +4,10 @@ I'm Loominagit. People know me as Loominatrx on [Roblox](https://www.roblox.com/
 
 ### Contacts 💬
 - Roblox: [Loominatrx](https://www.roblox.com/users/1565283543/profile)
-- Discord: Udin#4843
+- Discord: loominatrx#4843
 - DevForum: [Loominatrx](https://devforum.roblox.com/u/Loominatrx)
 
-(I mostly don't read messages since I am busy IRL.)
+(I mostly don't read messages & accept friend request since I am busy IRL.)
 
 <!--
 **Loominagit/Loominagit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
