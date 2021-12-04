@@ -4,7 +4,7 @@ I'm Loominagit. People know me as Loominatrx on [Roblox](https://www.roblox.com/
 
 ### Contacts 💬
 - Roblox: [Loominatrx](https://www.roblox.com/users/1565283543/profile)
-- Discord: loominatrx#4843
+- Discord: /home/loominatrx#4843
 - DevForum: [Loominatrx](https://devforum.roblox.com/u/Loominatrx)
 
 (I mostly don't read messages & accept friend request since I am busy IRL.)
