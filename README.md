@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Loominagit. People know me as Loominatrx on [Roblox](https://www.roblox.com/users/1565283543/profile). I usually publish my projects here (and sometimes contribute to other repository). As for now, I am not really active now due to exams and I am no longer doing online school anymore :(
+I'm Loominagit. People know me as Loominatrx on [Roblox](https://www.roblox.com/users/1565283543/profile). I usually publish my projects here (and sometimes contribute to other repository). As for now, I am not really active now due to exams (for real).
 
 ### Contacts 💬
 - Roblox: [Loominatrx](https://www.roblox.com/users/1565283543/profile)
