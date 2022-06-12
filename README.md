@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I'm Loominagit. People know me as Loominatrx on [Roblox](https://www.roblox.com/users/1565283543/profile). I usually publish my projects here (and sometimes contribute to other repository). As for now, I am not really active now due to exams (for real).
+I'm Loominagit. People know me as Loominatrx on [Roblox](https://www.roblox.com/users/1565283543/profile). I usually publish my projects here (and sometimes contribute to other repository).
+
+Also, if you live in Indonesia, you can support me by [visiting this link](https://saweria.co/loominatrx)!
+
+I don't have PayPal at the moment because I don't have identity card (yet)...
 
 ### Contacts 💬
 - Roblox: [Loominatrx](https://www.roblox.com/users/1565283543/profile)
