@@ -1,17 +1,9 @@
 ### Hi there 👋
 
-I'm Loominagit. People know me as Loominatrx on [Roblox](https://www.roblox.com/users/1565283543/profile). I usually publish my projects here (and sometimes contribute to other repository).
+I'm Mas Gading. People on the Internet know me as [loominatrx](https://www.roblox.com/users/1565283543/profile).
+I'm a teenager, a Roblox game developer, a gamer, and also a [6 digit osu! player](https://osu.ppy.sh/u/loominatrx). I do some Lua(u) and Javascript programming (I'm no expert at both of them), and also I do UI Design on Roblox & Figma (kinda experienced, but bad at picking colors).
 
-Also, if you live in Indonesia, you can support me by [visiting this link](https://saweria.co/loominatrx)!
-
-I don't have PayPal at the moment because I don't have identity card (yet)...
-
-### Contacts 💬
-- Roblox: [Loominatrx](https://www.roblox.com/users/1565283543/profile)
-- Discord: /home/loominatrx#4843
-- DevForum: [Loominatrx](https://devforum.roblox.com/u/Loominatrx)
-
-(I mostly don't read messages & accept friend request since I am busy IRL.)
+If you want to know more about me, check out this cool carrd profile that I made!<br/>https://loominatrx.carrd.co
 
 <!--
 **Loominagit/Loominagit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
