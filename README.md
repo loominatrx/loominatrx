@@ -1,21 +1,20 @@
+![Banner](https://github.com/user-attachments/assets/d58ab3dc-cf63-4b5b-a79e-b68eb667d0d7)
+
+---
+
 ### Hi there 👋
 
 I'm Mas Gading. People on the Internet know me as [loominatrx](https://www.roblox.com/users/1565283543/profile).
 I'm a teenager, a Roblox game developer, a gamer, and also a [6 digit osu! player](https://osu.ppy.sh/u/loominatrx). I do some Lua(u) and Javascript programming (I'm no expert at both of them), and also I do UI Design on Roblox & Figma (kinda experienced, but bad at picking colors).
 
-If you want to know more about me, check out this cool carrd profile that I made!<br/>https://loominatrx.carrd.co
+If you want to know more about me, check out this cool website that I made!<br/>https://loominatrx.my.id/
 
-<!--
-**Loominagit/Loominagit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Or,... if you want to check out other stuff:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Twitter: https://loominatrx.my.id/twitter
+- Bluesky: https://loominatrx.my.id/bsky
+- Instagram: https://loominatrx.my.id/instagram
+- YouTube: https://loominatrx.my.id/youtube
+- Trakteer: https://loominatrx.my.id/trakteer
